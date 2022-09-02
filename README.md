@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust,...**
 
-- 👨‍💻 All of my projects are available at [www.breml.com](www.breml.com)
+- 👨‍💻 All of my projects are available at [www.breml.com](https://github.com/breml-company)
 
 - 💬 Ask me about **C, JS, Flutter, Unreal**
 
