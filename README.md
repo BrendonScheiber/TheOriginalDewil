@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Breml Company](https://github.com/breml-company)
 
-- 🌱 I’m currently learning **Rust,...**
+- 🌱 I’m currently learning **Rust, Go, C++**
 
-- 👨‍💻 All of my projects are available at [www.breml.com](https://github.com/breml-company)
+- 👨‍💻 All of my projects are available at [TheOriginalDewil](https://github.com/TheOriginalDewil/)
 
 - 💬 Ask me about **C, JS, Flutter, Unreal**
 
