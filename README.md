@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Rust, C++, Embedded software**
 
- 💬 Ask me about **3D Printer, AI, C, C++... or anything [here](https://github.com/TheOriginalDewil/TheOriginalDewil/issues)**
+ 💬 Ask me about **3D Printer, AI, C, C++... or anything [here](https://github.com/BrendonScheiber/BrendonScheiber/issues)**
 
  ⚡ Fun fact **General Motors made the first self-diving car model.** <br>**The first computer virus was named 'Creeper'.**
  
@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TheOriginalDewil&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BrendonScheiber&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
 
